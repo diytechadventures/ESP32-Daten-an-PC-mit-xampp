@@ -1,5 +1,5 @@
 # Sensordaten an einen eigenen Webserver senden
-Das vollständige Tutorial befindet sich aktuell auf [meinen Blog - DIYTechadventures](https://diytechadventures.de/sensordaten-an-pc-senden/).
+Das vollständige Tutorial befindet sich aktuell auf meinem Blog - [DIYTechadventures](https://diytechadventures.de/sensordaten-an-pc-senden/).
 
 In diesem DIYTechAdventure zeige ich dir, wie du mit einem ESP32 über WLAN einen HTTP-Request durchführen 
 und die erhaltenen Sensordaten des SHT31 in eine Datenbank auf einem Webserver schreiben kannst. 

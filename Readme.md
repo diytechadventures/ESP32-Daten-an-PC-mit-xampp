@@ -17,3 +17,5 @@ Einen SHT31-> bekommst du günstig bei Aliexpress
 Zugang zu einem WLAN-Netzwerk
 Ein Webserver mit einer Datenbank (z.B. MySQL)
 Grundkenntnisse in Arduino-Programmierung und SQL
+
+![Fritzing Schaltung des angewandten Sensors.](https://diytechadventures.de/wp-content/uploads/2024/07/ESP32_SHT3x_Breadboard.webp)
